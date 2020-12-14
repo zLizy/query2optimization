@@ -41,7 +41,7 @@ S1||S2,S3
 ```
 
 ## Optimizer - Gurobi
-- Input: Map
+- Input: output steps, properties(Map)
 ```Java
 public static  String Tasks[] =
       new String[] { "car", "truck", "red", "yellow";
