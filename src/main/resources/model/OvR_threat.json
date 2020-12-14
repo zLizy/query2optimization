@@ -1,0 +1,1 @@
+{"id": 4, "dataset": "Toxic Comment", "task": {"threat": {"accuracy": 0.992, "cost": 0.00046699999999999997}}}

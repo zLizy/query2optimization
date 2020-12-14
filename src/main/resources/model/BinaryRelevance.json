@@ -1,0 +1,1 @@
+{"id": 7, "dataset": "Toxic Comment", "task": {"toxic": {"accuracy": 0.887, "cost": 3.45655}, "severe_toxic": {"accuracy": 0.978, "cost": 3.45655}, "obscene": {"accuracy": 0.937, "cost": 3.45655}, "threat": {"accuracy": 0.99, "cost": 3.45655}, "insult": {"accuracy": 0.932, "cost": 3.45655}, "identity_hate": {"accuracy": 0.99, "cost": 3.45655}}}
